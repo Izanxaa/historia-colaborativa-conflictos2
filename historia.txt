@@ -2,4 +2,6 @@ Un dia Juan fue de compras y se encontro con un antiguo compañero. Este le come
 
 Juan se ha vuelto cada vez mejor utilizando Git. Vaya crack.
 
+Con el paso del tiempo a Juan le llamo la atención este mundo, aprendió lenguajes de programación y ahora se dedica a ello.
+
 Al final Juan ha terminado siendo el maestro de Git. Se dedica a enseñar a los demás a utilizarlo.
